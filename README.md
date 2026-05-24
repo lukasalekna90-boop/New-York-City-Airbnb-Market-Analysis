@@ -1,5 +1,6 @@
 # New-York-City-Airbnb-Market-Analysis
 An Excel-based market analysis of 48k+ NYC Airbnb listings examining how host portfolio size, room types, and locations impact pricing strategies and vacancy rates.
+
 My Insights on the NYC Airbnb Market (2019) 
 1. What I Found About Hosts and Their Strategies 
 People with Just One Property: I noticed a really interesting trend here. Hosts who only list one 
