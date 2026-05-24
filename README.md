@@ -24,7 +24,7 @@ My Takeaway: Trying to manage a medium-sized portfolio of Airbnbs (like 2 to 10 
 New York seems like a trap. You lose your booking efficiency. Keeping it small and focusing on 
 just one property looks much more efficient and likely makes more sense financially. 
 
-3. What People Are Offering (Room Types) 
+2. What People Are Offering (Room Types) 
 
 Entire Apartments/Houses: This is the biggest slice of the market with 25,409 listings. No 
 surprises here—it’s also the most expensive option, averaging $211.79 a night. 
@@ -39,7 +39,7 @@ My Takeaway: If someone has the budget to buy and rent out a whole apartment, th
 the big money is. But private rooms are a huge market too, and they are much easier and 
 cheaper to start with. 
 
-4. Location Breakdown (The Boroughs)
+3. Location Breakdown (The Boroughs)
    
 The Expensive Areas: As expected, Manhattan is by far the priciest area to stay in, with an 
 average night costing $196.88. If you look closer at the neighborhoods, places like Tribeca 
